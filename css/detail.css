@@ -18,14 +18,6 @@ body {
     padding: 0 40px;
 }
 
-header {
-    height: 80px;
-    background-color: #CFAD84;
-    position: sticky;
-    top: 0;
-    z-index: 999;
-    width: 100%;
-}
 
 
 main {
@@ -491,13 +483,6 @@ section h2 {
 
 
 
-
-
-footer {
-    height: 337px;
-    background-color: #CFAD84;
-    text-align: center;
-}
 
 @media screen and (max-width:1002px) {
 

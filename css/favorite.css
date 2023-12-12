@@ -18,15 +18,6 @@ body {
     padding: 0 40px;
 }
 
-header {
-    height: 80px;
-    background-color: #CFAD84;
-    position: sticky;
-    top: 0;
-    z-index: 999;
-    width: 100%;
-}
-
 
 main {
     display: flex;
@@ -289,19 +280,6 @@ section h2 {
     font-weight: bold;
     flex-grow: 1;
 }
-
-
-
-footer {
-    height: 337px;
-    background-color: #CFAD84;
-    text-align: center;
-}
-
-
-
-
-
 
 
 
