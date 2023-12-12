@@ -156,8 +156,7 @@ section h2 {
 .bottom li {
     width: 960px;
     height: 294px;
-    /* background-size: contain; */
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     margin-bottom: 40px;
     align-items: start;
